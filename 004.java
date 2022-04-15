@@ -2,7 +2,6 @@
    código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.*/
 
 
-
 import java.util.Locale;
 import java.util.Scanner;
 
