@@ -33,6 +33,7 @@ public class Main {
 		System.out.printf("VALOR A PAGAR: R$ %.2f\n", valorTotal);
 
 		sc.close();
+		
 	}
 
 }
