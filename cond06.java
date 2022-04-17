@@ -3,6 +3,7 @@
    nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
 **/
 
+
 import java.util.Locale;
 import java.util.Scanner;
 
