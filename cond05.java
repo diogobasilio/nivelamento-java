@@ -2,7 +2,6 @@
    seguir, calcule e mostre o valor da conta a pagar.
 **/
 
-
 import java.util.Scanner;
 
 public class Main {
